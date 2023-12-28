@@ -3,4 +3,4 @@ This repository contains a System Verilog code for the Tower of Hanoi Game writt
 
 Before working on the above code, we were assigned tasks to verify a depth 4 FIFO which was done in a team of two. 
 
-The Tower of Hanaoi code, on the other hand, was my individual effort.
+The Tower of Hanoi code, on the other hand, was my individual effort.
